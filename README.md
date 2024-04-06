@@ -1,4 +1,4 @@
-<h1>Simple dasboard using TKINTER</h1>
+<h1>Simple dashboard using TKINTER</h1>
 
 <h2>TKINTER Dashboard</h2>
 
